@@ -1,0 +1,12 @@
+browser=chrome
+url=http:http://192.168.174.128:8080/crm/HomePage.do
+username=rashmi@dell.com
+password=123456
+loginTitle=Zoho CRM - Sign in
+hometitle=Zoho CRM - Home Page
+leadtitle=Zoho CRM - Displaying Custom View Details
+Newleadtitle=Zoho CRM - Create Lead
+Accountstitle=Zoho CRM - Displaying Custom View Details
+createaccountTitle=Zoho CRM - Create Account
+contactTitle=Zoho CRM - Displaying Custom View Details
+newcontactTile=Zoho CRM - Create Contact
